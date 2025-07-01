@@ -77,7 +77,22 @@
 }
 
 /* PRODUCT PAGE */
-
+.card a {
+  background-color: white;
+  border: 1px solid #2068f8;
+  border-radius: 2px;
+  padding: 10px 0;
+  width: 80%;
+  color: #2068f8;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  align-self: center;
+  margin-bottom: 36px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
 /* RETURTN TO MAIN */
 .arrowBack img {
   margin-right: 10px;

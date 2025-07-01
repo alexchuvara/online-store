@@ -2,7 +2,7 @@ import './App.css'
 import { Route, Routes } from 'react-router'
 import { BestSellers } from './BestSellers.tsx';
 import {Header} from './Header.tsx';
-import { Product } from './Product.tsx';
+import { Product } from './BestSellers.tsx';
 
 function App() {
   return (
