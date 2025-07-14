@@ -76,7 +76,6 @@
   cursor: pointer;
 }
 
-/* PRODUCT PAGE */
 .card a {
   background-color: white;
   border: 1px solid #2068f8;
@@ -93,6 +92,9 @@
   text-align: center;
   text-decoration: none;
 }
+
+/* PRODUCT PAGE */
+
 /* RETURTN TO MAIN */
 .arrowBack img {
   margin-right: 10px;
